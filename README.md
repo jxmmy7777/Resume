@@ -9,7 +9,7 @@
      applied to stimulate blurry images. We used linear regression method to optimized the prediction. It is 
      our prelimanary result due to imbalanced data distrubution.
 
-      [![Final Presentation Video](https://github.com/jxmmy7777/Resume/photos/Age_prediction.png)](https://drive.google.com/drive/u/0/folders/1m7FJW_iiMLLGMFLgW3Igcpzu2zaftnlx "Final Presentation Video")
+      [![Final Presentation Video](https://github.com/jxmmy7777/Resume/tree/master/photos/Age_prediction.png)](https://drive.google.com/drive/u/0/folders/1m7FJW_iiMLLGMFLgW3Igcpzu2zaftnlx "Final Presentation Video")
   
 2. Rope climbing robot
 
